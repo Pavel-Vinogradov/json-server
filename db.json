@@ -1,0 +1,485 @@
+[
+	{
+		"id": "u0",
+		"separator": false,
+		"list": [
+			{
+				"id": "u1",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Пользователи",
+				"to": "/users",
+				"expanded": false
+			},
+			{
+				"id": "u2",
+				"separator": false,
+				"list": [
+					{
+						"id": "u3",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Коллаж",
+						"to": "/cms/main/mainpic",
+						"expanded": false
+					},
+					{
+						"id": "u4",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Баннеры",
+						"to": "/cms/main/banner",
+						"expanded": false
+					},
+					{
+						"id": "u5",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Новое на портале",
+						"to": "/cms/main/actual",
+						"expanded": false
+					},
+					{
+						"id": "u6",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Актуальные темы",
+						"to": "/cms/main/themes",
+						"expanded": false
+					}
+				],
+				"icon": "",
+				"name": "Главная",
+				"to": "#",
+				"expanded": false
+			},
+			{
+				"id": "u7",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Результаты работы портала",
+				"to": "/results",
+				"expanded": false
+			},
+			{
+				"id": "u8",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Новости",
+				"to": "/news",
+				"expanded": false
+			},
+			{
+				"id": "u9",
+				"separator": false,
+				"list": [
+					{
+						"id": "u10",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Расскажи друзьям",
+						"to": "/cms/about/about/tell_friends",
+						"expanded": false
+					},
+					{
+						"id": "u11",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Часто задаваемые вопросы",
+						"to": "/cms/about/about/faq",
+						"expanded": false
+					},
+					{
+						"id": "u12",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Единые правила модерации",
+						"to": "/cms/about/doc/moderation",
+						"expanded": false
+					},
+					{
+						"id": "u13",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Регламент обработки информации",
+						"to": "/cms/about/doc/info_processing_rules",
+						"expanded": false
+					},
+					{
+						"id": "u14",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Пользовательское соглашение",
+						"to": "/cms/about/doc/user_agreement",
+						"expanded": false
+					}
+				],
+				"icon": "",
+				"name": "О портале",
+				"to": "#",
+				"expanded": true
+			}
+		],
+		"icon": "",
+		"name": "Портал",
+		"to": "#",
+		"expanded": false
+	},
+	{
+		"id": "u15",
+		"separator": false,
+		"list": [
+			{
+				"id": "u16",
+				"separator": false,
+				"list": [
+					{
+						"id": "u17",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Типы обращений",
+						"to": "/dict/issuetypes",
+						"expanded": false
+					},
+					{
+						"id": "u18",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Шаблоны назначений",
+						"to": "/dict/assignmenttemplates",
+						"expanded": false
+					},
+					{
+						"id": "u19",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Подсказки",
+						"to": "/dict/hints",
+						"expanded": false
+					},
+					{
+						"id": "u20",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Сезоны",
+						"to": "/dict/seasons",
+						"expanded": false
+					},
+					{
+						"id": "u21",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Уведомления",
+						"to": "/dict/posnotifications",
+						"expanded": false
+					}
+				],
+				"icon": "",
+				"name": "Справочники",
+				"to": "#",
+				"expanded": true
+			}
+		],
+		"icon": "",
+		"name": "Подсистема обработки сообщений",
+		"to": "#",
+		"expanded": true
+	},
+	{
+		"id": "u22",
+		"separator": false,
+		"list": [
+			{
+				"id": "u23",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Сопоставление организаций",
+				"to": "/edo/organizations",
+				"expanded": false
+			}
+		],
+		"icon": "",
+		"name": "ЭДО",
+		"to": "#",
+		"expanded": false
+	},
+	{
+		"id": "u24",
+		"separator": false,
+		"list": [
+			{
+				"id": "u25",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Журнал событий",
+				"to": "/logs",
+				"expanded": false
+			}
+		],
+		"icon": "",
+		"name": "Монитор",
+		"to": "#",
+		"expanded": false
+	},
+	{
+		"id": "u26",
+		"separator": false,
+		"list": [
+			{
+				"id": "u27",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Шаблоны",
+				"to": "/mailer/templates",
+				"expanded": false
+			},
+			{
+				"id": "u28",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Журнал уведомлений",
+				"to": "/mailer/messages",
+				"expanded": false
+			},
+			{
+				"id": "u29",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Подписки пользователей",
+				"to": "/mailer/usubscriptions",
+				"expanded": false
+			},
+			{
+				"id": "u30",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Типы уведомлений",
+				"to": "/mailer/subscriptions",
+				"expanded": false
+			}
+		],
+		"icon": "",
+		"name": "Сервис уведомлений",
+		"to": "#",
+		"expanded": true
+	},
+	{
+		"id": "u31",
+		"separator": false,
+		"list": [
+			{
+				"id": "u32",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Категории",
+				"to": "/pdo/categories",
+				"expanded": false
+			},
+			{
+				"id": "u33",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Объекты",
+				"to": "/pdo/objects",
+				"expanded": false
+			},
+			{
+				"id": "u34",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Правила",
+				"to": "/pdo/rules",
+				"expanded": false
+			},
+			{
+				"id": "u35",
+				"separator": false,
+				"list": [
+					{
+						"id": "u36",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "По объектам",
+						"to": "/pdo/owner/facility",
+						"expanded": false
+					},
+					{
+						"id": "u37",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Сопоставление",
+						"to": "/pdo/owner/corr",
+						"expanded": false
+					}
+				],
+				"icon": "",
+				"name": "Балансодержатели",
+				"to": "#",
+				"expanded": false
+			},
+			{
+				"id": "u38",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Выгрузки",
+				"to": "/files",
+				"expanded": false
+			},
+			{
+				"id": "u39",
+				"separator": false,
+				"list": [
+					{
+						"id": "u40",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Работы",
+						"to": "/pdo/works/works",
+						"expanded": false
+					},
+					{
+						"id": "u41",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Деревья",
+						"to": "/pdo/works/trees",
+						"expanded": false
+					},
+					{
+						"id": "u42",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "ФКР",
+						"to": "/pdo/works/fkr",
+						"expanded": false
+					}
+				],
+				"icon": "",
+				"name": "Работы",
+				"to": "#",
+				"expanded": true
+			}
+		],
+		"icon": "",
+		"name": "Объекты",
+		"to": "#",
+		"expanded": true
+	},
+	{
+		"id": "u43",
+		"separator": false,
+		"list": [
+			{
+				"id": "u44",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Новости",
+				"to": "/cabinet_news",
+				"expanded": false
+			}
+		],
+		"icon": "",
+		"name": "Кабинеты",
+		"to": "#",
+		"expanded": true
+	},
+	{
+		"id": "u45",
+		"separator": false,
+		"list": [
+			{
+				"id": "u46",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Пользователи",
+				"to": "/intusers/users",
+				"expanded": false
+			}
+		],
+		"icon": "",
+		"name": "Сервис авторизации",
+		"to": "#",
+		"expanded": true
+	},
+	{
+		"id": "u47",
+		"separator": false,
+		"list": [
+			{
+				"id": "u48",
+				"separator": false,
+				"list": null,
+				"icon": "",
+				"name": "Очередь сообщений",
+				"to": "/adm_issue_queue",
+				"expanded": false
+			},
+			{
+				"id": "u49",
+				"separator": false,
+				"list": [
+					{
+						"id": "u50",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Роли",
+						"to": "/auth/metaroles",
+						"expanded": false
+					},
+					{
+						"id": "u51",
+						"separator": false,
+						"list": null,
+						"icon": "",
+						"name": "Разрешения",
+						"to": "/auth/permtree",
+						"expanded": false
+					}
+				],
+				"icon": "",
+				"name": "Пользователи",
+				"to": "#",
+				"expanded": true
+			}
+		],
+		"icon": "",
+		"name": "Админ. настройки",
+		"to": "#",
+		"expanded": true
+	}
+]
